@@ -36,9 +36,23 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The georgicks of Hesiod, by George Chapman; translated elaborately out of the Greek: containing doct
+
+1. TO THE MOST NOBLE COMBINER OF LEARNING, AND HONOVR: Sr. FRANCIS BACON, Knight; Lord High Chancelor of England, &c.
+
+1. Of Hesiodus.
+
+1. To my worthy friend Mr. George Chapman, and his translated Hesiod.
+
+1. To my worthy and honour'd Friend, MrGeorge Chapman, on his Translation of Hesiods Works, & Dayes.
+
 #####Body#####
-The georgicks of Hesiod, by George Chapman; translated elaborately out of the Greek: containing doct
+
+1. THE GEORGICKS,Annotations. To approue my difference from the vulgar and verball exposition; and other amplifications, fitt and necessarie for the true rendring, and Illustration of my Author; I am enforst to annexe some words of the Originall to my other Annotations: OF HESIOD. By GEORGE CHAPMAN. The First Booke.
+
+1. THE SECOND BOOKE OF GEORGICKS.
+
+1. HESIODS BOOKE OF DAYES.
+
 **Types of content**
 
   * There are 1356 **verse** lines!
